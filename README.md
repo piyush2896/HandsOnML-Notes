@@ -10,21 +10,23 @@ It is always good to go back to basics and revisit old concepts to rectify the f
 
 ## Tables Of Contents
 <p style="font-size:17px"><a href="/PART1-TheFundamentalsOfML">PART-1-The Fundamentals of Machine Learning</a></p>
-1. [The Machine Learning Landscape](/PART1-TheFundamentalsOfML/Ch01-TheMLLandscape)
-2. End-to-End Machine Learning Project
-3. Classification
-4. Training Models
-5. Support Vector Machines
-6. Decision Trees
-7. Ensemble Learning and Random Forests
-8. Dimensionality Reduction
+
+1. [The Machine Learning Landscape](/PART1-TheFundamentalsOfML/Ch01-TheMLLandscape)<br/>
+2. End-to-End Machine Learning Project<br/>
+3. Classification<br/>
+4. Training Models<br/>
+5. Support Vector Machines<br/>
+6. Decision Trees<br/>
+7. Ensemble Learning and Random Forests<br/>
+8. Dimensionality Reduction<br/>
 
 <p style="font-size:17px"><a href="/PART2-NeuralNetworksAndDeepLearning">PART-2-Neural Networks And Deep Learning Learning</a></p>
-1. Up and Running With TensorFlow
-2. Introduction to Artificial Neural Networks
-3. Training Deep Neural Nets
-4. Distributing TensorFlow between devices and servers
-5. Convolutional Neural Networks
-6. Recurrent Neural Networks
-7. Autoencoders
-8. Reinforcement Learning
+
+1. Up and Running With TensorFlow<br/>
+2. Introduction to Artificial Neural Networks<br/>
+3. Training Deep Neural Nets<br/>
+4. Distributing TensorFlow between devices and servers<br/>
+5. Convolutional Neural Networks<br/>
+6. Recurrent Neural Networks<br/>
+7. Autoencoders<br/>
+8. Reinforcement Learning<br/>
