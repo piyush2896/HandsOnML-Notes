@@ -2,7 +2,6 @@
 <h1 align="center">Hand on Machine Learning</h1>
 <h2 align="center">with Scikit-Learn and TensorFlow</h2>
 
-***
 
 It is always good to go back to basics and revisit old concepts to rectify the fading concepts in our memory. In a similar attempt, I am going to make notes for my revisit to old concepts. The notes are made from [Hands on Machine Learning with Scikit-Learn and TensorFlow **by Aurélien Géron**](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/).
 
