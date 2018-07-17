@@ -255,7 +255,7 @@ Another way to generalize from a set of examples is to build a model of these ex
 |:--:|
 | Model-based learning |
 
-**For concrete example with an ML workflow see [this notebook](../instance-based-vs-model-based.ipynb)**
+**For concrete example with an ML workflow see [this notebook](/instance-based-vs-model-based.ipynb)**
 
 ## Main Challenges of Machine Learning
 Two things that can go wrong are - "bad algorithm" and "bad data".
