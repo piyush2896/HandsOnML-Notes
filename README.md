@@ -11,7 +11,7 @@ It is always good to go back to basics and revisit old concepts to rectify the f
 <p style="font-size:17px"><a href="/PART1-TheFundamentalsOfML">PART-1-The Fundamentals of Machine Learning</a></p>
 
 1. [The Machine Learning Landscape](/PART1-TheFundamentalsOfML/Ch01-TheMLLandscape)<br/>
-2. End-to-End Machine Learning Project<br/>
+2. [End-to-End Machine Learning Project](/PART1-TheFundamentalsOfML/Ch02-End2EndMLProject)<br/>
 3. Classification<br/>
 4. Training Models<br/>
 5. Support Vector Machines<br/>
