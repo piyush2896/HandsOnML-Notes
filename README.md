@@ -5,14 +5,19 @@
 
 It is always good to go back to basics and revisit old concepts to rectify the fading concepts in our memory. In a similar attempt, I am going to make notes for my revisit to old concepts. The notes are made from [Hands on Machine Learning with Scikit-Learn and TensorFlow **by Aurélien Géron**](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/).
 
+
 > These notes are in no means replacement to the awesome book. These can be used as a companion or as revision guide.
 
+If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
+
+
 ## Tables Of Contents
+
 <p style="font-size:17px"><a href="/PART1-TheFundamentalsOfML">PART-1-The Fundamentals of Machine Learning</a></p>
 
 1. [The Machine Learning Landscape](/PART1-TheFundamentalsOfML/Ch01-TheMLLandscape)<br/>
 2. [End-to-End Machine Learning Project](/PART1-TheFundamentalsOfML/Ch02-End2EndMLProject)<br/>
-3. Classification<br/>
+3. [Classification](/PART1-TheFundamentalsOfML/Ch03-Classification)<br/>
 4. Training Models<br/>
 5. Support Vector Machines<br/>
 6. Decision Trees<br/>
