@@ -18,7 +18,7 @@ If this repository helps you in anyway, show your love :heart: by putting a :sta
 1. [The Machine Learning Landscape](/PART1-TheFundamentalsOfML/Ch01-TheMLLandscape)<br/>
 2. [End-to-End Machine Learning Project](/PART1-TheFundamentalsOfML/Ch02-End2EndMLProject)<br/>
 3. [Classification](/PART1-TheFundamentalsOfML/Ch03-Classification)<br/>
-4. Training Models<br/>
+4. [Training Models](/PART1-TheFundamentalsOfML/Ch04-TrainingModels)<br/>
 5. Support Vector Machines<br/>
 6. Decision Trees<br/>
 7. Ensemble Learning and Random Forests<br/>
@@ -42,6 +42,7 @@ These are some helpful markdowns I put together while going through the book.
 * <a href="https://github.com/piyush2896/HandsOnML-Notes/tree/master/PART1-TheFundamentalsOfML/Ch02-End2EndMLProject/ML_NOTATIONS.md" target="_blank">Machine Learning Notations</a>
 * <a href="https://github.com/piyush2896/HandsOnML-Notes/tree/master/PART1-TheFundamentalsOfML/Ch02-End2EndMLProject/workspace_creation.md" target="_blank">Workspace Setup</a>
 * <a href="https://github.com/piyush2896/HandsOnML-Notes/tree/master/PART1-TheFundamentalsOfML/Ch02-End2EndMLProject/Sklearn_Design.md" target="_blank">Scikit-Learn API Design</a>
+* <a href="https://github.com/piyush2896/HandsOnML-Notes/blob/master/PART1-TheFundamentalsOfML/Ch04-TrainingModels/BiasVarianceTradeoff.md" target="_blank">Bias variance tradeoff</a>
 
 There are some youtube channels to speed up this learning process:
 
